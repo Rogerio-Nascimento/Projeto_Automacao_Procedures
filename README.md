@@ -27,3 +27,6 @@ Agora, o usuário irá inserir o parâmetro (dependendo do tipo de projeto) e, e
 Em seguida, ele irá marcar as opções para incluir a filial como parâmetro, excluir se existir e incluir cabeçalho. Por fim, clicará em 'Gerar .CSV'.
 
 ![image](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures/assets/87660080/dd26855c-655c-4981-82f1-6590300957e7)
+
+
+Pronto, agora é só abrir o diretório e o arquivo estará lá. O código simplesmente realiza um 'select distinct' nas tabelas de movimentações de entrada e nas colunas de CNPJ e, no final, traz junto com o período selecionado.
