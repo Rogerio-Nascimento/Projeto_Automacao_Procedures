@@ -5,7 +5,7 @@ Uma automação em que ele gera um arquivo .CSV para chamar as procedures de ger
 
 ## Como funciona?
 
-É um executável no qual o usuário irá inserir as informações para que, no final, seja gerado um arquivo .txt com essas informações, evitando retrabalho.
+É um executável no qual o usuário irá inserir as informações para que, no final, seja gerado um arquivo .CSV com essas informações, evitando retrabalho.
 
 ### Passando os caminhos das informações
 
