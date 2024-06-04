@@ -1,4 +1,4 @@
-# Projeto de Automacao de Procedures
+# Projeto de automação de procedures
 
 Uma automação em que ele gera um arquivo .CSV para chamar as procedures de geração de arquivo .txt no banco de dados SQL Server. Essas procedures são amplamente utilizadas em projetos tributários que envolvem grandes volumes de dados, como CNPJs e períodos.
 
