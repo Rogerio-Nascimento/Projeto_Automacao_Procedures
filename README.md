@@ -7,7 +7,7 @@ Uma automação em que ele gera um arquivo .CSV para chamar as procedures de ger
 
 É um executável no qual o usuário irá inserir as informações para que, no final, seja gerado um arquivo .txt com essas informações, evitando retrabalho.
 
-### Passando o caminho
+### Passando os caminhos das informações
 
 Primeiramente, o usuário irá fornecer o SERVIDOR, BANCO DE DADOS SQL e a PROCEDURE.
 
