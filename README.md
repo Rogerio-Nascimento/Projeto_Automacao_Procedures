@@ -15,7 +15,7 @@ Primeiramente, o usuário irá fornecer o SERVIDOR, BANCO DE DADOS SQL e a PROCE
 
 Logo em seguida, o usuário irá inserir o período, por exemplo:
 
-2018 - 2024 (semelhante à imagem abaixo)
+2018 - 2024 (semelhante à imagem abaixo):
 
 ![image](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures/assets/87660080/c4ba2675-e02c-47f7-b86a-5352f5702c80)
 
